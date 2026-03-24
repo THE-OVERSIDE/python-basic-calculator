@@ -1,6 +1,9 @@
 # Basic Calculator (Python + CustomTkinter)
 Basic calculator built with Python and CustomTkinter and UI designed in Figma
 
+## Version
+1.1
+
 ## Features
 - Basic arithmetic opeations (addition, subtraction, multiplication, division)
 - Clean graphical interface
@@ -17,7 +20,7 @@ The interface was designed in Figma before implementation.
 - Figma (UI desing)
 
 ## Proyect Status
-Working initial version. Improvements and refactoring will be added over time.
+Working stable version, with all code documentation. Updates and refactoring will be added over time.
 
 ## Future Improvements
 - Improve code structure
