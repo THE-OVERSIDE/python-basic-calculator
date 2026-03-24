@@ -111,7 +111,7 @@ class BasicCalculator():
                                       command=lambda:self.number_button_click("9"))
           
         self.btn_addition = CTkButton(self.principal_frame,
-                                      text="+", fg_color=color_palette["opperator_buttons"],
+                                      text="+", fg_color=color_palette["operator_buttons"],
                                       text_color=color_palette["text_button_color"],
                                       width=100,
                                       height=100,
@@ -157,7 +157,7 @@ class BasicCalculator():
                                       command=lambda:self.number_button_click("6"))
 
         self.btn_subtraction = CTkButton(self.principal_frame,
-                                         text="-", fg_color=color_palette["opperator_buttons"],
+                                         text="-", fg_color=color_palette["operator_buttons"],
                                          text_color=color_palette["text_button_color"],
                                          width=100,
                                          height=100,
@@ -203,7 +203,7 @@ class BasicCalculator():
                                         command=lambda:self.number_button_click("3"))
         
         self.btn_multiplication = CTkButton(self.principal_frame,
-                                            text="X", fg_color=color_palette["opperator_buttons"],
+                                            text="X", fg_color=color_palette["operator_buttons"],
                                             text_color=color_palette["text_button_color"],
                                             width=100,
                                             height=100,
@@ -219,7 +219,7 @@ class BasicCalculator():
         
         #ROW 4 ------------------------------------------------------------------
         self.btn_clear_entry = CTkButton(self.principal_frame,
-                                      text="CE", fg_color=color_palette["opperator_buttons"],
+                                      text="CE", fg_color=color_palette["operator_buttons"],
                                       text_color=color_palette["text_button_color"],
                                       width=100,
                                       height=100,
@@ -239,7 +239,7 @@ class BasicCalculator():
                                         command=lambda:self.number_button_click("0"))
 
         self.btn_equals = CTkButton(self.principal_frame,
-                                    text="=", fg_color=color_palette["opperator_buttons"],
+                                    text="=", fg_color=color_palette["operator_buttons"],
                                     text_color=color_palette["text_button_color"],
                                     width=100,
                                     height=100,
@@ -249,7 +249,7 @@ class BasicCalculator():
                                     command=self.equals_button_click)
 
         self.btn_division = CTkButton(self.principal_frame,
-                                        text="/", fg_color=color_palette["opperator_buttons"],
+                                        text="/", fg_color=color_palette["operator_buttons"],
                                         text_color=color_palette["text_button_color"],
                                         width=100,
                                         height=100,

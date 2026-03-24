@@ -2,7 +2,7 @@
 Basic calculator built with Python and CustomTkinter and UI designed in Figma
 
 ## Version
-1.1
+1.1.1 (Error fixed)
 
 ## Features
 - Basic arithmetic opeations (addition, subtraction, multiplication, division)
