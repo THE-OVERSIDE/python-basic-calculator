@@ -42,7 +42,7 @@ class BasicCalculator():
         
         #Window configuration
         self.window = CTk(fg_color=color_palette["background"])
-        self.window.title("Basic Calculator")
+        self.window.title("Basic Calculator - V.1.1.2")
         self.window.geometry("600x700")
         self.window.resizable(False, False)
         
@@ -331,7 +331,7 @@ class BasicCalculator():
             self.change_display_text("Zero Division Error")
             self.change_state_of_all_buttons_without_CE("disabled")
         except Exception:
-            self.change_display_text("Error")
+            self.change_display_text("Math ERROR")
             self.change_state_of_all_buttons_without_CE("disabled")
 
     def clear_entry_button_click(self):
