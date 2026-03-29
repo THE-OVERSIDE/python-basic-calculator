@@ -24,3 +24,12 @@ Working stable version, with all code documentation. Updates and refactoring wil
 ## Future Improvements
 - Improve code structure
 - Enhance UI
+
+## What I learned?
+In this proyect, I learned:
+- To do a documentation code
+- To use GitHub with Visual Studio Code
+- To desing an UI in Sigma
+- New english words
+
+I had some mistakes doing this proyect, an example is the version 1.1.1 (When there was a serius mistake relacioned with a wrong name in one of the colors names)
